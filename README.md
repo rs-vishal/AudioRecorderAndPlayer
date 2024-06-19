@@ -5,8 +5,7 @@ Features
 Record Audio: Capture high-quality audio with ease.
 Playback Audio: Play back recorded audio files.
 User-friendly Interface: Clean and intuitive design for a smooth user experience.
-Screenshots
-(Add screenshots of your app here)
+
 
 Getting Started
 Prerequisites
@@ -16,7 +15,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/audio-recorder-player.git
+git clone https://github.com/rs-vishal/AudioRecorderAndPlayer.git
 Open the project in Android Studio.
 Build and run the project on an Android device or emulator.
 Usage
